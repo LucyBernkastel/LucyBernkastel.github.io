@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>魔幻动物园</title>
+        <link>https://LucyBernkastel.github.io</link>
+        <description>这里不养猪头鹅</description>
+        <generator>Zola</generator>
+        <language>zh</language>
+        <atom:link href="https://LucyBernkastel.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 17 Jan 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>饲料单 0</title>
+            <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+            <link>https://LucyBernkastel.github.io/articles/menu-0/</link>
+            <guid>https://LucyBernkastel.github.io/articles/menu-0/</guid>
+            <description>&lt;p&gt;这是什么？&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>饲料单 -1</title>
+            <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+            <link>https://LucyBernkastel.github.io/articles/menu-minus-1/</link>
+            <guid>https://LucyBernkastel.github.io/articles/menu-minus-1/</guid>
+            <description>&lt;p&gt;这份饲料单意在索引2022年以前我在其他地方写过的东西。第一个主题大概是……Freedom is not free. 这实在是个沉重的话题，以至于我不知道会不会收集第二个主题了。&lt;&#x2F;p&gt;
+&lt;p&gt;下一张饲料单是&lt;a href=&quot;&#x2F;articles&#x2F;menu-0&quot;&gt;饲料单 1&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>关于科学（存档）</title>
+            <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+            <link>https://LucyBernkastel.github.io/articles/regarding-science/</link>
+            <guid>https://LucyBernkastel.github.io/articles/regarding-science/</guid>
+            <description>&lt;p&gt;我想尝试给这个老问题一个更有米田味一点的答案。&lt;&#x2F;p&gt;
+&lt;p&gt;当我们想要定义一个抽象名词的时候，最初也是全差的选择是枚举可能性，把它变成一个&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Part_of_speech#Open_and_closed_classes&quot;&gt;closed class&lt;&#x2F;a&gt;。让science=phys+chem+bio +…显然是不够令人满意的，这没办法给出怎么判断一个新的东西算不算science的定义，也不能告诉我们science是好是坏，往好了说的话这种定义感觉就像Nobel Prize一类的东西，很多时候是获奖者在赋予奖项荣耀。&lt;&#x2F;p&gt;
+&lt;p&gt;更好一点的定义方式是axiomatic的，尝试描述science应该具有的属性，比如指定一种从实验中获取数据然后拟合出规律的工作模式。这可能很接近不少人想象中的作为典范学科的物理学，然而很遗憾，物理学从来都不是这么工作的，从Newtond的Principia开始就不是这样的。直到现在，还有很多远离物理学的地方反过来在追逐这种仅存于想象中的幻影（是不是该开始黑那些machine learning+physics的研究了？&lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>

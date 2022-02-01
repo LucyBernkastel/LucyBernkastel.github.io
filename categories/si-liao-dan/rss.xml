@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>魔幻动物园 - 饲料单</title>
+        <link>https://LucyBernkastel.github.io</link>
+        <description>这里不养猪头鹅</description>
+        <generator>Zola</generator>
+        <language>zh</language>
+        <atom:link href="https://LucyBernkastel.github.io/categories/si-liao-dan/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 17 Jan 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>饲料单 0</title>
+            <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+            <link>https://LucyBernkastel.github.io/articles/menu-0/</link>
+            <guid>https://LucyBernkastel.github.io/articles/menu-0/</guid>
+            <description>&lt;p&gt;这是什么？&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>饲料单 -1</title>
+            <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+            <link>https://LucyBernkastel.github.io/articles/menu-minus-1/</link>
+            <guid>https://LucyBernkastel.github.io/articles/menu-minus-1/</guid>
+            <description>&lt;p&gt;这份饲料单意在索引2022年以前我在其他地方写过的东西。第一个主题大概是……Freedom is not free. 这实在是个沉重的话题，以至于我不知道会不会收集第二个主题了。&lt;&#x2F;p&gt;
+&lt;p&gt;下一张饲料单是&lt;a href=&quot;&#x2F;articles&#x2F;menu-0&quot;&gt;饲料单 1&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>
